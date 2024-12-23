@@ -16,6 +16,18 @@ Este repositório contém a resolução de três problemas do LeetCode que abord
 
         Descrição: Este problema exige que você encontre o subarray contíguo com a maior soma em um array de números inteiros e retorne essa soma.
 
+4. [Count of Smaller Numbers After Selfy](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) - Nível: Difícil
+
+        Descrição: Este problema exige para encontrar, para cada elemento de um array, o número de elementos à direita dele que são menores.
+
+5. [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) - Nível: Difícil
+
+        Descrição: Este problema pede que encontre quantos subarrays de um array dado possuem uma soma que está dentro de um intervalo especificado [lower,upper].
+
+6. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - Nível: Difícil
+
+        Descrição: Este problema pede para contar quantos pares em um array satisfazem duas condições: o índice do primeiro elemento do par é menor que o do segundo, e o valor do primeiro elemento é maior que o dobro do valor do segundo.
+
 ## Como executar
 Para cada um desses problemas, o código foi implementado em Python e está disponível neste repositório. Você pode executar os scripts diretamente ou adaptá-los conforme necessário para o seu ambiente de desenvolvimento. Cada problema está isolado em um arquivo de script separado, facilitando o teste individual.
 
