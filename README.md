@@ -1,7 +1,7 @@
 # Resolução de Problemas no LeetCode
 
 ## Visão Geral
-Este repositório contém a resolução de três problemas do LeetCode que abordam conceitos essenciais de algoritmos e estruturas de dados, incluindo métodos clássicos e técnicas avançadas de dividir e conquistar.
+Este repositório contém a resolução de seis problemas do LeetCode que abordam conceitos essenciais de algoritmos e estruturas de dados, incluindo métodos clássicos e técnicas avançadas de dividir e conquistar.
 
 ## Questões
 1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) - Nível: Difícil
@@ -32,7 +32,7 @@ Este repositório contém a resolução de três problemas do LeetCode que abord
 Para cada um desses problemas, o código foi implementado em Python e está disponível neste repositório. Você pode executar os scripts diretamente ou adaptá-los conforme necessário para o seu ambiente de desenvolvimento. Cada problema está isolado em um arquivo de script separado, facilitando o teste individual.
 
 ## Vídeo
-Para vizualisar o vídeo explicando o projeto clique [AQUI]().
+Para vizualisar o vídeo explicando o projeto clique [AQUI](https://youtu.be/vWULKEZjIo8).
 
 ## Contribuidores
 <center>
